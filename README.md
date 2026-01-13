@@ -31,7 +31,7 @@ checks, is available here:
 
 - [`Crypto_ETF_Liquidity_Vacuum_Deng.pdf`](paper/Crypto_ETF_Liquidity_Vacuum_Deng.pdf)
 
-## Notebooks
+## Codes
 
 - **main.ipynb** – Analysis for Bitcoin (BTC).  
 - **main copy.ipynb** – Analysis for Ethereum (ETH).  
