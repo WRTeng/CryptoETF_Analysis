@@ -1,6 +1,6 @@
 # Crypto ETF Analysis
 
-An empirical study of structural liquidity mismatches and Monday re-pricing effects
+This is an empirical study of structural liquidity mismatches and Monday re-pricing effects
 in spot crypto ETFs using high-frequency data. This repository contains the data and code used for the project.  
 
 ## Overview
